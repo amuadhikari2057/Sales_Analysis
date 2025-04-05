@@ -3,7 +3,9 @@
 This repository contains a Power BI dashboard that provides analytical insights into the sales and profit performance of a fictional retail company specializing in outdoor and sports equipment. The dashboard is designed to help stakeholders monitor key performance indicators, customer demographics, and profitability trends over time.
 
 📊 Dashboard Features
+
 ✅ Key Metrics
+
 Total Sales: 35.22M
 
 Total Cost: 20.39M
@@ -11,6 +13,7 @@ Total Cost: 20.39M
 Profit Margin: 72.70%
 
 ✅ Visual Insights
+
 Customer Segmentation
 
 By Occupation (e.g., Professional, Skilled Manual, Management)
@@ -32,6 +35,7 @@ Category-Wise Sales & Profitability
 Breakdown of sales, profit, cost, and profit margins by product sub-category
 
 💼 Use Case
+
 This dashboard is ideal for sales managers, analysts, and business executives to:
 
 Track product performance
@@ -43,6 +47,7 @@ Understand customer demographics
 Make data-driven strategic decisions
 
 🛠 Tools Used
+
 Microsoft Power BI
 
 DAX
